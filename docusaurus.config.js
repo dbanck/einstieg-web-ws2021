@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'einstieg-web-ws2021',
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Webentwicklung',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -36,7 +36,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/dbanck/einstieg-web-ws2021/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
