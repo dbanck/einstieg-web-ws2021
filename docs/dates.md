@@ -3,12 +3,12 @@ id: dates
 title: Termine
 ---
 
-Eine Übersicht aller Termine des Kurses und deren Inhalte. Zum jeweiligen Datum sollten die genannten Inhalte bearbeitet und eventuelle Fragen vorbereitet werden.
+Hier findet ihr eine Übersicht aller Termine des Kurses und deren Inhalte. Zum jeweiligen Datum sollten die genannten Inhalte bearbeitet und eventuelle Fragen vorbereitet werden.
 
 Die Termine finden digital via Zoom statt. Den Link zum Meeting findet ihr im Projektchannel in Mattermost. An dieser Stelle ist es wichtig, dass ihr in Zoom euren vollständigen Namen benutzt, sodass eine Zuordnung für die Anwesenheit leichter erfolgen kann.
 
 :::info
-Auch sollte jeder Teilnehmende über eine Kamera verfügen und diese angestellt haben.
+Auch sollte jeder Teilnehmende über eine Kamera verfügen und diese eingeschaltet haben.
 Das nonverbale Feedback ist eine wichtige Komponente in jedem Unterricht und für jede soziale Interaktion, auch für euch untereinander.
 ::::
 
