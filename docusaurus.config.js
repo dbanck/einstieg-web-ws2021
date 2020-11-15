@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Einstieg in die Webentwicklung WS20/21',
   tagline: 'Notizen zum Kursinhalt und -ablauf',
-  url: 'https://einstieg-web-ws2021.vercel.app',
+  url: 'https://webentwicklung.dbanck.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
@@ -11,7 +11,7 @@ module.exports = {
     navbar: {
       title: 'Webentwicklung',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/logo.svg',
       },
       items: [

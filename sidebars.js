@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Kurs: ['overview', 'dates'],
+    Kurs: ['overview', 'dates', 'projects'],
     Notizen: ['general'],
   },
 };
