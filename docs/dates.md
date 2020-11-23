@@ -17,11 +17,11 @@ Prüft bitte auch, ob ihr die aktuelle Zoom-App für euren Rechner installiert h
 | Datum            |                                                         Inhalte                                                          |
 | ---------------- | :----------------------------------------------------------------------------------------------------------------------: |
 | 16. November '20 |                                                   Auftakt und Tooling                                                    |
-| 23. November '20 |  [HTML 1](https://www.coursera.org/learn/html/home/week/1) & [HTML 2](https://www.coursera.org/learn/html/home/week/2)   |
-| 30. November '20 | [HTML 3](https://www.coursera.org/learn/html/home/week/3) & [CSS 1](https://www.coursera.org/learn/introcss/home/week/1) |
-| 07. Dezember '20 | [CSS 2](https://www.coursera.org/learn/introcss/home/week/2) & [CSS 3](https://www.coursera.org/learn/introcss/home/week/3) |
-| 14. Dezember '20 | [CSS 4](https://www.coursera.org/learn/introcss/home/week/4) |
-| 04. Januar '21 | [JavaScript 1](https://www.coursera.org/learn/javascript/home/week/1) & [JavaScript 2](https://www.coursera.org/learn/javascript/home/week/2) |
-| 11. Januar '21 | [JavaScript 3](https://www.coursera.org/learn/javascript/home/week/3) & [JavaScript 4](https://www.coursera.org/learn/javascript/home/week/4) |
+| 23. November '20 |  [HTML Week 1](https://www.coursera.org/learn/html/home/week/1) & [HTML Week 2](https://www.coursera.org/learn/html/home/week/2)   |
+| 30. November '20 | [HTML Week 3](https://www.coursera.org/learn/html/home/week/3) & [CSS Week 1](https://www.coursera.org/learn/introcss/home/week/1) |
+| 07. Dezember '20 | [CSS Week 2](https://www.coursera.org/learn/introcss/home/week/2) & [CSS Week 3](https://www.coursera.org/learn/introcss/home/week/3) |
+| 14. Dezember '20 | [CSS Week 4](https://www.coursera.org/learn/introcss/home/week/4) |
+| 04. Januar '21 | [JavaScript Week 1](https://www.coursera.org/learn/javascript/home/week/1) & [JavaScript Week 2](https://www.coursera.org/learn/javascript/home/week/2) |
+| 11. Januar '21 | [JavaScript Week 3](https://www.coursera.org/learn/javascript/home/week/3) & [JavaScript Week 4](https://www.coursera.org/learn/javascript/home/week/4) |
 | 18. Januar '21 | Fragen & Absprachen bzgl. der finalen Projekte |
 | 25. Januar '21 | Präsentation der finalen Projekte |
