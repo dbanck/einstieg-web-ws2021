@@ -3,7 +3,7 @@ id: faq
 title: FAQ
 ---
 
-### Werden die Zoom-Sessions aufgezeichnet?
+## Werden die Zoom-Sessions aufgezeichnet?
 
 Nein, die Sessions werden nicht von mir aufgezeichnet und Zoom unterbindet, dass Teilnehmende die Session über Zoom aufzeichnen.
 
