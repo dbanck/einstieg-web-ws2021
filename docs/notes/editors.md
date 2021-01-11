@@ -11,4 +11,7 @@ title: Code Editors
 
 ## Offline
 
-* [VS Code](https://code.visualstudio.com/)
+* [VS Code](https://code.visualstudio.com/) - Perfekt für die lokale Entwicklung von Projekten
+  * Dazu sollten folgende Erweiterungen mit installiert werden:
+    * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - zur automatischen Formattierung von Code
+    * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - zum Starten einen Servers für eine einfacherer Entwicklung
