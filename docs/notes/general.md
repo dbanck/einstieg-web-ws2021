@@ -17,6 +17,7 @@ title: Allgemein
 - [Tailwind](https://tailwindcss.com/) - Liefert viele fertige CSS Klassen, die direkt im HTML benutzt werden können
 - [Animate.css](https://animate.style/) - Schöne Animationen nur mit CSS
 - Getting Started with CSS Grid: https://css-tricks.com/getting-started-css-grid/
+- [Interactive CSS Grid Generator](https://grid.layoutit.com/)
 - Perfekt zum Lernen von Flexbox: https://flexboxfroggy.com/
 - A Complete Guide to Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Zur Specificity von Selektoren: https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
