@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Einstieg in die Webentwicklung WS20/21',
+  title: 'Einstieg in die Webentwicklung',
   tagline: 'Notizen zum Kursinhalt und -ablauf',
   url: 'https://webentwicklung.dbanck.de',
   baseUrl: '/',

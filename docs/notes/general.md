@@ -13,6 +13,8 @@ title: Allgemein
 ## CSS
 
 - [MDN CSS Referenz](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+<!--
 - [Sass](https://sass-lang.com/) - Erweitert CSS um viele spannende Features und spart viel Schreibarbeit
 - [Tailwind](https://tailwindcss.com/) - Liefert viele fertige CSS Klassen, die direkt im HTML benutzt werden können
 - [Animate.css](https://animate.style/) - Schöne Animationen nur mit CSS
@@ -22,8 +24,12 @@ title: Allgemein
 - A Complete Guide to Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Zur Specificity von Selektoren: https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 - [PostCSS](https://postcss.org/) für die automatische Transformation von CSS
+-->
 
 ## JavaScript
 
 - [MDN JavaScript Referenz](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+<!--
 - [JavaScript.info](https://javascript.info/)
+-->
