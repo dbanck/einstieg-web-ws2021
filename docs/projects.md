@@ -14,7 +14,7 @@ Als Projekt soll eine Webseite gebaut werden, wobei Inhalt und Design komplett f
 Das Ergebnis wird von jeder Gruppe am Ende des Kurses präsentiert. Der Quellcode sollte am besten öffentlich zugänglich, z.B. auf [Github](https://github.com/), zur Verfügung stehen.
 
 :::info
-Es ist empfehlenswert vor der der Weihnachtspause eine Gruppe und ein Projekt gefunden zu haben, sodass die ersten Abstimmungen und Arbeiten bereits starten können.
+Es ist empfehlenswert vor dem Beginn der JavaScript-Lektionen eine Gruppe und ein Projekt gefunden zu haben, sodass die ersten Abstimmungen und Arbeiten bereits starten können.
 :::
 
 Der Umfang eines Projektes sollte mindestens den im Coursera Kurs erarbeiteten Beispielen entsprechen. D.h. mehrere Seiten, eine Navigation, verschiedene Elemente pro Seite, Bilder, idealerweise auch mit einem stimmigen Design.
