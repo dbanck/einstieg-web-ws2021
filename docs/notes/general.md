@@ -5,6 +5,8 @@ title: Allgemein
 
 - Umfangreiche Sammlung zum Nachschlagen zu allen Themen rund um die Webentwicklung: https://developer.mozilla.org/en-US/
 - Zum Nachschlagen, welches Feature in welchen Browsern am besten unterstützt wird: https://caniuse.com/
+- Generator für Favicons: https://realfavicongenerator.net/
+- Generator für Farbpaletten: [coolors](https://coolors.co/), [Paletton](https://www.paletton.com/)
 
 ## HTML
 
