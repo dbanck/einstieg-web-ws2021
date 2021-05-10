@@ -25,6 +25,8 @@ title: Allgemein
 - Zur Specificity von Selektoren: https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 - [Animate.css](https://animate.style/) - Schöne Animationen nur mit CSS
 - [Tailwind](https://tailwindcss.com/) - Liefert viele fertige CSS Klassen, die direkt im HTML benutzt werden können
+- [Bootstrap](https://getbootstrap.com/) – Fertige Komponenten und Layouts für den Bau von Webseiten
+- [Material Design](https://material.io/develop/web) - Fortgeschrittenere Komponenten für Layouts
 
 ## JavaScript
 
