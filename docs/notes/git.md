@@ -9,6 +9,8 @@ Für macOS ist der "Binary Installer" empfehlenswert.
 
 - [Git](https://git-scm.com/)
 - VSCode Erweiterung für die [Git Historie](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
+- [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 
 Des Weiteren gibt es auch Integrationen für jeden anderen Code Editor, sowie Terminal- und Desktop-Clients.
 Alles lässt sich frei kombinieren und parallel benutzen.
