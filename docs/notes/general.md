@@ -31,7 +31,4 @@ title: Allgemein
 ## JavaScript
 
 - [MDN JavaScript Referenz](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-<!--
 - [JavaScript.info](https://javascript.info/)
--->
