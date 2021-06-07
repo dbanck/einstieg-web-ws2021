@@ -25,6 +25,8 @@ Um euch nach dem Kurs mit anderen Entwickler*innen zu vernetzen, kann ich euch f
 - Konferenzen (sofern wieder möglich)
     - [BarCamp Kiel](https://barcamp-kiel.de/) (und weitere in SH)
     - [code.talks](https://www.codetalks.de/)
+    - [CCC Events](https://events.ccc.de/)
     - uvm.
 - Hackathons
-
+    - [Coding da Vinci](https://codingdavinci.de/)
+    - [coding.waterkant](https://www.waterkant.sh/events/coding-waterkant)
