@@ -16,13 +16,14 @@ Prüft bitte auch, ob ihr die aktuelle Zoom-App für euren Rechner installiert h
 
 | Datum            |                                                         Inhalte                                                          |
 | ---------------- | :----------------------------------------------------------------------------------------------------------------------: |
-| 12. April '21 |                                                   Auftakt und Tooling                                                    |
-| 19. April '21 |  [HTML Week 1](https://www.coursera.org/learn/html/home/week/1) & [HTML Week 2](https://www.coursera.org/learn/html/home/week/2)   |
-| 26. April '21 | [HTML Week 3](https://www.coursera.org/learn/html/home/week/3) & [CSS Week 1](https://www.coursera.org/learn/introcss/home/week/1) |
-| 03. Mai '21 | [CSS Week 2](https://www.coursera.org/learn/introcss/home/week/2) & [CSS Week 3](https://www.coursera.org/learn/introcss/home/week/3) |
-| 10. Mai '21 | [CSS Week 4](https://www.coursera.org/learn/introcss/home/week/4) |
-| 17. Mai '21 | [JavaScript Week 1](https://www.coursera.org/learn/javascript/home/week/1) & [JavaScript Week 2](https://www.coursera.org/learn/javascript/home/week/2) |
-| 31. Mai '21 | [JavaScript Week 3](https://www.coursera.org/learn/javascript/home/week/3) & [JavaScript Week 4](https://www.coursera.org/learn/javascript/home/week/4) |
-| 07. Juni '21 | Projektfragen & weiteres |
-| 14. Juni '21 | Projektfragen & weiteres |
-| 21. Juni '21 | Präsentation der finalen Projekte |
+| 25. Oktober '21 |                                                   Auftakt und Tooling                                                    |
+| 01. November '21 |  [HTML Week 1](https://www.coursera.org/learn/html/home/week/1) & [HTML Week 2](https://www.coursera.org/learn/html/home/week/2)   |
+| 08. November '21 | [HTML Week 3](https://www.coursera.org/learn/html/home/week/3) & [CSS Week 1](https://www.coursera.org/learn/introcss/home/week/1) |
+| 15. November '21 | [CSS Week 2](https://www.coursera.org/learn/introcss/home/week/2) & [CSS Week 3](https://www.coursera.org/learn/introcss/home/week/3) |
+| 22. November '21 | [CSS Week 4](https://www.coursera.org/learn/introcss/home/week/4) |
+| 29. November '21 | [JavaScript Week 1](https://www.coursera.org/learn/javascript/home/week/1) & [JavaScript Week 2](https://www.coursera.org/learn/javascript/home/week/2) |
+| 06. Dezember '21 | [JavaScript Week 3](https://www.coursera.org/learn/javascript/home/week/3) & [JavaScript Week 4](https://www.coursera.org/learn/javascript/home/week/4) |
+| 13. Dezember '21 | Gruppen- und Projektplanung |
+| 10. Januar '22 | Projektfragen & weiteres |
+| 17. Januar '22 | Projektfragen & weiteres |
+| 24. Januar '22 | Präsentation der finalen Projekte |
