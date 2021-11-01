@@ -11,6 +11,10 @@ title: Code Editors
   * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - zur automatischen Formattierung von Code
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - zum Starten einen Servers für eine einfacherer Entwicklung
 
+Folgende Einstellungen sollten fuer Prettier vorgenommen werden:
+
+![](../../static/img/vscode_settings.png)
+
 ## Weitere
 
 * [Codesandbox](https://codesandbox.io/) – gut um komplexere Projekte online zu bauen
