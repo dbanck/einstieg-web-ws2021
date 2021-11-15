@@ -7,6 +7,7 @@ module.exports = {
       "notes/editors",
       "notes/devtools",
       "notes/design",
+      "notes/git",
     ],
   },
 };
