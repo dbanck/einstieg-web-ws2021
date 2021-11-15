@@ -23,7 +23,6 @@ Prüft bitte auch, ob ihr die aktuelle Zoom-App für euren Rechner installiert h
 | 22. November '21 | [CSS Week 4](https://www.coursera.org/learn/introcss/home/week/4) |
 | 29. November '21 | [JavaScript Week 1](https://www.coursera.org/learn/javascript/home/week/1) & [JavaScript Week 2](https://www.coursera.org/learn/javascript/home/week/2) |
 | 06. Dezember '21 | [JavaScript Week 3](https://www.coursera.org/learn/javascript/home/week/3) & [JavaScript Week 4](https://www.coursera.org/learn/javascript/home/week/4) |
-| 13. Dezember '21 | Gruppen- und Projektplanung |
 | 10. Januar '22 | Projektfragen & weiteres |
 | 17. Januar '22 | Projektfragen & weiteres |
 | 24. Januar '22 | Präsentation der finalen Projekte |
