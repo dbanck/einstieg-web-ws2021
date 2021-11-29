@@ -28,7 +28,7 @@ title: Allgemein
 - [Bootstrap](https://getbootstrap.com/) – Fertige Komponenten und Layouts für den Bau von Webseiten
 - [Material Design](https://material.io/develop/web) - Fortgeschrittenere Komponenten für Layouts
 
-<!-- ## JavaScript -->
+ ## JavaScript
 
-<!-- - [MDN JavaScript Referenz](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -->
-<!-- - [JavaScript.info](https://javascript.info/) -->
+- [MDN JavaScript Referenz](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript.info](https://javascript.info/)
