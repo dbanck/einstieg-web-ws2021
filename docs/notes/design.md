@@ -6,9 +6,9 @@ title: Design Tools
 ## Tools
 
 - [excalidraw](https://excalidraw.com/) - Zum Erstellen von Wireframes
-<!-- - [Sketch](https://www.sketch.com/) -->
-<!-- - [Figma](https://www.figma.com/) -->
-<!-- - [Adobe XD](https://www.adobe.com/products/xd.html) -->
+- [Sketch](https://www.sketch.com/)
+- [Figma](https://www.figma.com/)
+- [Adobe XD](https://www.adobe.com/products/xd.html)
 
 ## Bilder & Icons
 
