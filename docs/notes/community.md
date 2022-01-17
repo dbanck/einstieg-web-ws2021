@@ -14,6 +14,8 @@ Um euch nach dem Kurs mit anderen Entwickler*innen zu vernetzen, kann ich euch f
 - [Github.com](https://github.com/)
     - Dort könnt ihr interessanten Menschen folgen
     - Jedes größere Projekt hat in der Regel eine Community und Chat-Platform (z.B. Github Discussions oder Slack)
+- [Discord](https://discord.com/)  — Chat und Voice Communities
+    - [Python](https://discord.com/invite/python)
 - [Reddit.com](https://reddit.com/) — Als globale Community mit Subreddits zu div. Themen
 - [Twitter.com](https://twitter.com/) — Als Community mit vielen interessanten Leuten und Listen zum Folgen
     - [Sarah Drasner](https://twitter.com/sarah_edo)
